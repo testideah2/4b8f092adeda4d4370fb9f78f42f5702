@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "travel.enjoys.app"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
     <name>ТЕСТ. enjoys.travel</name>
 
@@ -40,17 +40,17 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/8c71d27c702029305f978984a6046576.png" density="ldpi" />
-        <icon src="res/android/icon/787394f00de615234c0ccc7d1cc62494.png" density="mdpi" />
-        <icon src="res/android/icon/884b8534732159021ecd0a8077743e38.png" density="hdpi" />
-        <icon src="res/android/icon/defc76ce154f6951a8809ce5821f4e96.png" density="xhdpi" />
-        <icon src="res/android/icon/d5e6f6e8ebd695e9e87869b1824f56d6.png" density="xxhdpi" />
-        <icon src="res/android/icon/1fe4ddb12fe5b133ad81704fe33a6c07.png" density="xxxhdpi" />
+        <icon src="res/android/icon/5dd13568297b6a1847d6c59d569bcb16.png" density="ldpi" />
+        <icon src="res/android/icon/3efa058a44d6875afd1e3983093447f1.png" density="mdpi" />
+        <icon src="res/android/icon/65e083293989a20139f40d3170d372b9.png" density="hdpi" />
+        <icon src="res/android/icon/341ecc9cb253b6d5494a998b0a185dc8.png" density="xhdpi" />
+        <icon src="res/android/icon/838b9677c71ce9149536bc961a094c13.png" density="xxhdpi" />
+        <icon src="res/android/icon/787812667257742b5aaef1a0c31173ad.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/919e8d710a5225b9040b2f4078fe4ae2.png" density="port-hdpi"/>
-        <splash src="res/android/screen/fb2a27579e297c5c55941c6d76a3ad38.png" density="port-ldpi"/>
-        <splash src="res/android/screen/431f8ef3d046b5b5707deecc71adceb6.png" density="port-mdpi"/>
-        <splash src="res/android/screen/452f77dbc0ea0ce19ed00ec84c172924.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/c6a045d4ead012ce95478af937b5c025.png" density="port-hdpi"/>
+        <splash src="res/android/screen/a465299c219facd19713ed353db5eb58.png" density="port-ldpi"/>
+        <splash src="res/android/screen/d4f92da52a8e3b8f34bd1f511780658f.png" density="port-mdpi"/>
+        <splash src="res/android/screen/33aae45d49248a3bdeac4612f52d09c6.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
